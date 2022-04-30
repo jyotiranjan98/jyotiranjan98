@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Full-stack web developement**
 
-- 👨‍💻 All of my projects are available at <a href="my-portfolio-jyotiranjan.vercel.app/">My Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="my-portfolio-jyotiranjan.vercel.app/" target="blank">My Portfolio</a>
 
 - 💬 Ask me about **JS| Adv.js| React**
 
 - 📫 How to reach me **jyoti.das955@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1yRATnmZ6B-4SHhMGeFct4ry2YDOfiZOa/view?usp=sharing">Click Here</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1yRATnmZ6B-4SHhMGeFct4ry2YDOfiZOa/view?usp=sharing" target="blank">Click Here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
