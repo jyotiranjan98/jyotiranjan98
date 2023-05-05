@@ -35,4 +35,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jyotiranjan98&show_icons=true&locale=en&layout=compact" alt="jyotiranjan98" /></p>
+<p><img align="center" margin-left="20%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jyotiranjan98&show_icons=true&locale=en&layout=compact" alt="jyotiranjan98" /></p>
