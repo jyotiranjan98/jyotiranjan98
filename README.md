@@ -6,17 +6,17 @@
 <p align="left"> <a href="https://twitter.com/jyotiranjan955" target="blank"><img src="https://img.shields.io/twitter/follow/jyotiranjan955?logo=twitter&style=for-the-badge" alt="jyotiranjan955" /></a> </p>
 
 
-<div style="text-align: right"><img src="https://camo.githubusercontent.com/f55fd995bda4de4dbb97793b9e0234ad214700505a10ca53939486f627b6c428/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f3230302e776562703f6369643d656366303565343730656963683869737772613871743636736734693832773434376e65373573627033677276676e6c267269643d3230302e776562702663743d67" /></div>
+<div><img src="https://camo.githubusercontent.com/f55fd995bda4de4dbb97793b9e0234ad214700505a10ca53939486f627b6c428/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f3230302e776562703f6369643d656366303565343730656963683869737772613871743636736734693832773434376e65373573627033677276676e6c267269643d3230302e776562702663743d67" /></div>
 
 - 🌱 I’m currently learning **Full-stack web developement**
 
-- 👨‍💻 All of my projects are available at <a href="https://my-portfolio-jyotiranjan.vercel.app/" target="blank">Click Here</a>
+- 👨‍💻 All of my projects are available at <a href="https://jyotiranjan98.github.io" target="blank">Click Here</a>
 
 - 💬 Ask me about **JS| Adv.js| React**
 
 - 📫 How to reach me **jyoti.das955@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1yRATnmZ6B-4SHhMGeFct4ry2YDOfiZOa/view?usp=sharing" target="blank">Click Here</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1o4KC6OQlpfxF6OKHa7oZgq6pyLE2_yn8/view?usp=sharing" target="blank">Click Here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
